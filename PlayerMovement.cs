@@ -1,9 +1,9 @@
-﻿using System.Collections;
+/*Justin Galvez*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour {
-
     public CharacterController2D controller;
     public Animator animator;
 
